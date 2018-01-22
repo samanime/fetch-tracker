@@ -1,6 +1,6 @@
 {
   "name": "fetch-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds preFetch and postFetch events for tracking fetch calls globally.",
   "main": "lib/main",
   "module": "lib/module",
