@@ -1,0 +1,12 @@
+{
+  "env": {
+    "development": {
+      "presets": ["env"]
+    },
+    "module": {
+      "presets": [
+        ["env", { "modules": false }]
+      ]
+    }
+  }
+}
